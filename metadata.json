@@ -1,0 +1,6 @@
+{
+  "name": "初一英语课文同步生词本",
+  "description": "初一英语下册课本同步单词，支持高效背诵、听写、趣味闯关与艾宾浩斯记忆法智能复习，助力初中生轻松掌握课内词汇。",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
